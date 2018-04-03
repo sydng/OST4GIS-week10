@@ -4,8 +4,7 @@
 
 Build a static, html+css prototype based on the images in the [screens directory](./screens).
 The goal is to create the basic structure of the screen by using the proper components from a
-frontend library. For this assignment, you do not need to make the style (color, fonts, etc.) match
-the screens exactly.
+frontend library. For this assignment, you do not need to make the style (color, fonts, etc.) match the screens exactly.
 
 Below are four frontend frameworks to choose from. Pick whichever looks best to you.
 
@@ -57,4 +56,3 @@ you make the style look more similar to the screens?
 ### Extra Stretch Goal
 
 Can you recreate the blue navigation on the left side of the screens?
-
