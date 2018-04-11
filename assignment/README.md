@@ -20,6 +20,11 @@ be necessary)
 
 ## Technologies used
 
+postGIS raster support - carto
+openlayers - alternative to leaflet
+mapbox gl - heat maps; need to use vector tiles
+can also use cartoDB to generate heat maps 
+
 Which technologies covered in class (or discovered on your own!) do you
 plan to use? How do you anticipate using each of these technologies?
 
@@ -63,4 +68,3 @@ that you think would be useful? What technologies not covered seem exciting to
 you (you don't necessarily have to fully understand what they're for,
 this is a chance for you to get our help interpreting a technology's
 purpose/usage).
-
