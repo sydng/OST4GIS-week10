@@ -1,6 +1,8 @@
 # Final Project Proposal
 Sydney Goldstein
+
 CPLN 692 JavaScript
+
 April 11, 2018
 
 ## Problem / Question
